@@ -1,0 +1,9 @@
+{
+  "name": "KoreaExplorer",
+  "displayName": "Korea Explorer - 대한민국 탐험기",
+  "version": "1.0.0",
+  "description": "로그라이크 대한민국 탐험 앱",
+  "author": "Korea Explorer Team",
+  "orientation": "portrait",
+  "platforms": ["android", "ios"]
+}
